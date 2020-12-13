@@ -1,11 +1,11 @@
 
-#DiabetesDetectionBot
+# DiabetesDetectionBot
 
 Merupakan sistem deteksi dini kejadian diabetes berdasarkan beberapa variabel terkait. Sistem ini menggunakan platform telegram sebagai salah satu aplikasi chatting di Indonesia.
 
 DiabetesDetectionBot dikembangkan dengan menggunakan algoritma machine learning algoritma .... dari dengan akurasi sebesar ... precision ... dan recall ... .
 
-##Cara Penggunaan Bot
+## Cara Penggunaan Bot
 Cari bot di kolom search telegram dengan keyword @DiabetesDetectionBot .
 Terdapat beberapa perintah/commands yaitu:
 /start  - untuk menampilkan informasi terkait bot
@@ -19,7 +19,7 @@ Berikut adalah contoh penggunaannya
 
 
 Selain bisa menggunakan bot kamu juga bisa mengaksesnya dengan menggunakan web browser di alamat berikut
->http://feelfree10.pythonanywhere.com/
+> http://feelfree10.pythonanywhere.com/
 
 
 
